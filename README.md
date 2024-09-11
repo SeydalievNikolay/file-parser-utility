@@ -7,4 +7,4 @@
 # Скомпилируйте проект с помощью Maven:
 mvn clean package
 # Запустите утилиту из командной строки:
-java -jar target/file-filter-utility-0.0.1-SNAPSHOT.jar -s -a -p sample- in1.txt in2.txt
+java -jar target/demo-1.0-SNAPSHOT.jar -s -a -p sample- in1.txt in2.txt

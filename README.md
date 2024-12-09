@@ -5,7 +5,7 @@
 1. Убедитесь, что у вас установлены JDK версии 8.
 
 2. Клонируйте репозиторий с GitHub:
-git clone https://github.com/SeydalievNikolay/the-register-of-equipment.git cd the-register-of-equipment
+[git clone https://github.com/SeydalievNikolay/the-register-of-equipment.git cd the-register-of-equipment](https://github.com/SeydalievNikolay/file-parser-utility.git)
 
 4. Скомпилируйте проект:
 mvn clean install
